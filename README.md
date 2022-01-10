@@ -26,9 +26,23 @@ and as a result we were able to run our code/script much faster as shown by the 
 </p>
 
 ### Data Analysis
+  <p align="center"> 
+    <img src="/Resources/VBA_Challenge_2017.png" alt="All Stock 2017 Time" width="400">
+    <img src="/Resources/VBA_Challenge_2018.png" alt="All Stock 2017 Time" width="400">
+  </p>
 
-<p align="left">
-<img src="/Resources/VBA_Challenge_2017.png" alt="All Stock 2017 Time" width="400">
-</p>
+The above data is the change in volume over the course of the year highlighted. Just based on the data provided we can clearly see that the stocks with best performace and most gains were **ENPH** and **RUN**. These two stocks had the gains upto 81% for ENPH and 84% for RUN. This information could be used to help in the decision making process for investing in a stock. Based on the data, we can look deeper into company accounting reports and perform other research to help us in making an educated and safe decision. 
 
+### Advantages & Disadvantage of Refactoring Code
+
+**Advantages**
+- It will improve the Design of the Software
+- It makes the code easier to understand
+- It helps in finding bugs in your code
+- it will improve the performace and time-complexity of your code.
+
+**Disadvantages**
+- It may be time comsuming if code/application is to long
+- It may come at a cost, which could mean going over project budget
+- sometimes it may not even be necessary.
 
