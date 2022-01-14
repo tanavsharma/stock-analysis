@@ -52,7 +52,6 @@ The above data is the change in volume over the course of the year highlighted. 
 
 It improved the run time by 0.78 seconds. Which may not seem like a lot, but in computer science it's very significant. Let's break it down further. With the code being refactored, we can see the code runs 81.25% more efficiently. Here is how I calculated that: 
 
-<p align="center">
-<img src="/Resources/Formula.png" alt="Formula"> <br>
+<img src="/Resources/Formula.png" alt="Formula">
+<br>
 <img src="/Resources/FormulaSolved.png" alt="Formula Solved"> 
-</p>
