@@ -53,6 +53,6 @@ The above data is the change in volume over the course of the year highlighted. 
 It improved the run time by 0.78 seconds. Which may not seem like a lot, but in computer science it's very significant. Let's break it down further. With the code being refactored, we can see the code runs 81.25% more efficiently. Here is how I calculated that: 
 
 <p align="center">
-<img src="/Resources/AllStock2017-Refactored.png" alt="All Stock 2017 Refactored" width="400"> 
-<img src="/Resources/AllStock2018-Refactored.png" alt="All Stock 2018 Refactored" width="400"> 
+<img src="/Resources/Formula.png" alt="Formula" width="400"> 
+<img src="/Resources/FormulaSolved.png" alt="Formula Solved" width="400"> 
 </p>
