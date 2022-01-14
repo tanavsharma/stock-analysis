@@ -55,3 +55,9 @@ It improved the run time by 0.78 seconds. Which may not seem like a lot, but in 
 <img src="/Resources/Formula.png" alt="Formula">
 <br>
 <img src="/Resources/FormulaSolved.png" alt="Formula Solved"> 
+
+Having your script run 81.25% more efficiently comes in handy when dealing with large data sets. 
+
+**The Disadvantage:**
+
+Sometimes refactoring a code means making it specific to just 1 data set. In other words that code wont be able to handle a different dataset if the original were to change. So refactoring code can sometimes lead to decreased usability and integration. 
